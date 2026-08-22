@@ -1,6 +1,6 @@
 # 📝 2652. Sum Multiples (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sum-multiples)
+🔗 [Problem Link](https://leetcode.com/problems/sum-multiples/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
